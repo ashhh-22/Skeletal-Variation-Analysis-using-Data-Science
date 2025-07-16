@@ -25,7 +25,6 @@ The dataset likely includes skeletal metrics (lengths, widths, ratios, etc.) col
 | `Humerus_Length` | Length of humerus bone             |
 | `Group`          | Categorical label (e.g., species)  |
 
-> 🔍 _Please update this section with the actual column names from your dataset._
 
 ## 📊 Features
 
